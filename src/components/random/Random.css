@@ -1,0 +1,35 @@
+* {
+  margin: auto;
+  box-sizing: border-box;
+}
+table {
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+td {
+  width: 150px;
+  padding: 0px;
+}
+
+.student-container {
+  border: 1px solid lightgray;
+  border-radius: 5px;
+  padding: 8px;
+  margin: 0px;
+}
+.container {
+  text-align: center;
+}
+.container button {
+  margin-top: 30px;
+  cursor: pointer;
+  background-color: rgb(87, 87, 254);
+  border: 0px;
+  color: #fff;
+  height: 35px;
+  border-radius: 5px;
+}
+.faculties-container {
+  display: flex;
+  margin-top: 40px;
+}
